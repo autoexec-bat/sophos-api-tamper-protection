@@ -19,3 +19,5 @@ Things to come:
 - Multi estate support; partner dashboard and enterprise dashboard
 
 Open license, no restrictions and not officially supported by Sophos.
+
+Thanks for reading.

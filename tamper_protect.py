@@ -1,4 +1,4 @@
-# Sophos Central - Tamper protection checks
+# Sophos Central - Tamper protection checks v1.0
 # Aaron Bugal, Sophos, 2020
 import requests, json, getpass
 
